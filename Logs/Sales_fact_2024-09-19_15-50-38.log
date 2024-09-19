@@ -1,0 +1,12 @@
+19-09-2024 03:50:38 PM - Validations - INFO - Source table Count:46
+19-09-2024 03:50:38 PM - Validations - INFO - Target Sales_fact table Count: 97336
+19-09-2024 03:50:38 PM - Validations - INFO - Source & Target Count validation status: FAIL
+19-09-2024 03:50:38 PM - Validations - INFO - Source & Target Record Count Validation Successfully Completed!
+19-09-2024 03:50:38 PM - Validations - INFO - Null records count:0
+19-09-2024 03:50:38 PM - Validations - INFO - Null check validation status:PASS
+19-09-2024 03:50:38 PM - Validations - INFO - Null check Validation Completed Successfully!.
+19-09-2024 03:50:38 PM - Validations - INFO - Duplicate Records count:46
+19-09-2024 03:50:38 PM - Validations - INFO - Duplicate check validation status:FAIL
+19-09-2024 03:50:38 PM - Validations - INFO - Duplicate check validation completed Successfully!
+19-09-2024 03:50:39 PM - Validations - INFO - Source & Target columns mapping status:PASS
+19-09-2024 03:50:39 PM - Validations - INFO - Source & Target columns mapping completed Successfully!
