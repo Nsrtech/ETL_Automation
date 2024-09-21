@@ -1,13 +1,5 @@
-@echo off
-setlocal
-
-rem Change to the root directory of your project
-cd /d "C:\NSR_Python_Projects\Python_Project_Version2\ETL_Testing_Framework(Config Driven Approach)"
-
-rem Loop through each Python file in Test_Cases and run it
-for %%f in (Test_Cases\*.py) do (
-    echo Running %%~nf...
-    python -m Test_Cases.%%~nf
-)
-
-pause
+python -m Test_Cases.Product_dim_validations
+python -m Test_Cases.Cost_dim
+python -m Test_Cases.Inventory_dim
+python -m Test_Cases.Sales_fact
+python -m Test_Cases.Table_Existence_chk
